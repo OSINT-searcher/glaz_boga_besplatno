@@ -42,4 +42,4 @@ Telegram-бот Глаз Бога в своё время стал символо
 
 [Вернуться к каталогу OSINT-инструментов](https://github.com/OSINT-searcher/probiv_i_OSINT_instrumenti)
 
-[Открыть статью как отдельную страницу]()
+[Открыть статью как отдельную страницу](https://osint-searcher.github.io/glaz_boga_besplatno/)
